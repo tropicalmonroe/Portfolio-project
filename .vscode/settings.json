@@ -1,0 +1,5 @@
+{
+    "errorLens.excludeBySource": [
+        "ts(1149)"
+    ]
+}
